@@ -1,10 +1,28 @@
-# Lodz
+<p align="center">
+  <a href="https://lodz.money">
+    <img
+      src="https://lodz.money/images/org-banner.jpg"
+      width="100%"
+      alt="An underground adit. Rock walls threaded with gold seams, a single headlamp at the end of a straight shaft, and an orecart standing on the rails."
+    >
+  </a>
+</p>
 
-**Yield from the bedrock.**
+<h1 align="center">Lodz</h1>
 
-Bitcoin yield attribution on Solana. Every quoted rate split by who pays it.
+<p align="center"><strong>Yield from the bedrock.</strong></p>
 
-[lodz.money](https://lodz.money)
+<p align="center">
+  Bitcoin yield attribution on Solana. Every quoted rate split by who pays it.
+</p>
+
+<p align="center">
+  <a href="https://lodz.money"><img alt="Website: lodz.money" src="https://img.shields.io/static/v1?style=flat-square&labelColor=14171A&label=WEBSITE&message=lodz.money&color=F2C230"></a>
+  <a href="https://x.com/lodzmoney"><img alt="X: @lodzmoney" src="https://img.shields.io/static/v1?style=flat-square&labelColor=14171A&label=X&message=%40lodzmoney&color=2B2F33&logo=x&logoColor=F2C230"></a>
+  <a href="https://www.npmjs.com/package/@lodz/cli"><img alt="npm: @lodz/cli" src="https://img.shields.io/static/v1?style=flat-square&labelColor=14171A&label=NPM&message=%40lodz%2Fcli&color=C98F2E&logo=npm&logoColor=F2C230"></a>
+  <a href="https://github.com/LodzMoney/lodz"><img alt="Solana, Anchor 0.31" src="https://img.shields.io/static/v1?style=flat-square&labelColor=14171A&label=SOLANA&message=ANCHOR%200.31&color=8C4A2F&logo=solana&logoColor=F2C230"></a>
+  <a href="https://github.com/LodzMoney/lodz/blob/main/LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/static/v1?style=flat-square&labelColor=14171A&label=LICENSE&message=MIT&color=4E6B52"></a>
+</p>
 
 ---
 
