@@ -17,6 +17,19 @@
 </p>
 
 <p align="center">
+  <strong>CA</strong><br>
+  <code>1EaGq2PtdsxhZicYsrMXcVMLXMdyqpbUNQJjfZBpump</code>
+</p>
+
+<p align="center">
+  <sub>
+    The full address, never shortened. Check it against the mint before you act on it --
+    a truncated address is not an address, and every impersonation of a launch relies on
+    the middle being hidden.
+  </sub>
+</p>
+
+<p align="center">
   <a href="https://lodz.money"><img alt="Website: lodz.money" src="https://img.shields.io/static/v1?style=flat-square&labelColor=14171A&label=WEBSITE&message=lodz.money&color=F2C230"></a>
   <a href="https://x.com/lodzmoney"><img alt="X: @lodzmoney" src="https://img.shields.io/static/v1?style=flat-square&labelColor=14171A&label=X&message=%40lodzmoney&color=2B2F33&logo=x&logoColor=F2C230"></a>
   <a href="https://www.npmjs.com/package/@lodz/cli"><img alt="npm: @lodz/cli" src="https://img.shields.io/static/v1?style=flat-square&labelColor=14171A&label=NPM&message=%40lodz%2Fcli&color=C98F2E&logo=npm&logoColor=F2C230"></a>
